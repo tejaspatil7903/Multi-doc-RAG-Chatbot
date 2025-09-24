@@ -38,7 +38,7 @@ A powerful Streamlit-based chatbot that enables intelligent conversations with y
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/pdf-chat.git
+git clone https://github.com/tejaspatil7903/Multi-doc-RAG-Chatbot.git
 cd pdf-chat
 2. **Set Up Environment**
 ```bash
