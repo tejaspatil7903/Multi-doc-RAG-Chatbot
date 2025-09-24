@@ -1,0 +1,13 @@
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+langchain-groq==0.1.9
+chromadb==0.5.5
+huggingface_hub==0.23.4
+torch>=2.0.0
+transformers>=4.40.0
+sentence-transformers>=3.0.0
+pypdf==4.2.0
+unstructured>=0.10.30
+tiktoken==0.7.0
+python-dotenv==1.0.1
